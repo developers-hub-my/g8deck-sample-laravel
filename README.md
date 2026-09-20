@@ -1,3 +1,18 @@
+# G8Deck — Laravel sample
+
+A stock Laravel application, used to exercise G8Deck's **php** build preset.
+
+> **Workshop: fork first, deploy from the fork.**
+> Deploying from *your* fork is what lets the deploy key and webhook belong to
+> you — push to the fork and G8Deck redeploys it.
+>
+> 1. **Fork** this repository (button, top right).
+> 2. In G8Deck, create an application from **your fork**.
+> 3. Deploy. You get a URL.
+> 4. Change something, push, and watch it redeploy.
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
